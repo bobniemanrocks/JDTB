@@ -46225,25 +46225,14 @@ a.u-link.u-text-hover-color-var:hover {
   margin: 210px auto 60px;
 }
 
-@media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 103px;
-  }
 
-  .u-footer .u-text-1 {
-    margin-top: 10px;
-    margin-bottom: 49px;
-  }
-}
 
 @media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 400px;
-  }
-
   .u-footer .u-text-1 {
     width: auto;
-    margin: 117px 0 60px;
+    margin-top: 40px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 

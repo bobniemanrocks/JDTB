@@ -46105,10 +46105,26 @@ a.u-link.u-text-hover-color-var:hover {
 
 .u-header .u-nav-3 {
   font-size: 1rem;
-  letter-spacing: 0px;
 }
 
 .u-header .u-nav-4 {
+  font-size: 1rem;
+}
+
+.u-header .u-nav-5 {
+  font-size: 1rem;
+  letter-spacing: 0px;
+}
+
+.u-header .u-nav-6 {
+  font-size: 1rem;
+}
+
+.u-header .u-nav-7 {
+  font-size: 1rem;
+}
+
+.u-header .u-nav-8 {
   font-size: 1rem;
 }
 
@@ -46222,12 +46238,12 @@ a.u-link.u-text-hover-color-var:hover {
 
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 320px;
+    min-height: 400px;
   }
 
   .u-footer .u-text-1 {
     width: auto;
-    margin: 37px 0 60px;
+    margin: 117px 0 60px;
   }
 }
 

@@ -27,7 +27,6 @@
     margin-top: 20px;
     margin-right: 276px;
     margin-left: 470px;
-    margin-bottom: initial;
   }
 }
 
@@ -51,7 +50,9 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin: -426px 46px 60px 316px;
+    margin-top: -426px;
+    margin-right: 46px;
+    margin-left: 316px;
   }
 }
 

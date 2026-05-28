@@ -46217,19 +46217,27 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 1326px;
+  min-height: 243px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 210px auto 60px;
+  margin: 53px auto 0;
 }
 
+@media (max-width: 991px) {
+  .u-footer .u-sheet-1 {
+    min-height: 148px;
+  }
 
+  .u-footer .u-text-1 {
+    margin-top: 16px;
+  }
+}
 
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 1299px;
+    min-height: 200px;
   }
 
   .u-footer .u-text-1 {

@@ -30,13 +30,13 @@
 .u-section-1 .u-image-2 {
   width: 277px;
   height: 222px;
-  margin: 0 auto;
+  margin: -10px auto 0;
 }
 
 .u-section-1 .u-btn-3 {
   background-image: none;
   font-weight: 700;
-  margin: 41px auto 0 432px;
+  margin: 51px auto 0 432px;
   padding: 0;
 }
 

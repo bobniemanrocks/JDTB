@@ -45727,12 +45727,12 @@ a.u-link.u-text-hover-color-var.hover {
 }
 @media (max-width: 991px) {
   .u-footer .u-image-1 {
-    margin-top: 25px;
-    margin-left: 86px;
+    margin-top: 27px;
+    margin-left: 97px;
   }
 
   .u-footer .u-image-2 {
-    margin-top: -69px;
+    margin-top: -71px;
     margin-left: 189px;
   }
 
@@ -45757,10 +45757,6 @@ a.u-link.u-text-hover-color-var.hover {
   }
 }
 @media (max-width: 767px) {
-  .u-footer .u-image-2 {
-    margin-top: -69px;
-  }
-
   .u-footer .u-text-1 {
     margin-top: 20px;
     margin-left: 211px;
@@ -45776,40 +45772,37 @@ a.u-link.u-text-hover-color-var.hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 312px;
+    min-height: 208px;
   }
 
   .u-footer .u-image-1 {
-    margin-top: 47px;
-    margin-left: 25px;
+    margin-top: 49px;
+    margin-left: 32px;
   }
 
   .u-footer .u-image-2 {
-    margin-top: -71px;
     margin-left: 103px;
   }
 
   .u-footer .u-text-1 {
-    margin-top: -113px;
+    margin-top: -111px;
     margin-left: 6px;
     margin-right: 6px;
   }
 
   .u-footer .u-image-3 {
-    margin-top: 11px;
-    margin-right: 99px;
+    margin-top: 9px;
+    margin-right: 103px;
   }
 
   .u-footer .u-image-4 {
     margin-top: -69px;
-    margin-right: 18px;
+    margin-right: 25px;
   }
 
   .u-footer .u-text-2 {
     width: auto;
-    margin-top: 5px;
-    margin-left: 0;
-    margin-right: 0;
+    margin: 0 0 38px;
   }
 }
 
